@@ -16,7 +16,7 @@ Additionally, I've inlcudeed a link to the individual write up here
 
 2) Data Exploration in C+: <a href = "https://github.com/MannyE/Portfolio_Machine_Learning/blob/main/2)%20Data%20Exploration%20on%20C%2B%2B/Data%20Processing%20in%20Traditional%20Langauages%20vs%20R.pdf">Click here </a>
 
-3) Implementing Linear Models in R
+3) Implementing Linear Models in R: <a href = "https://github.com/MannyE/Portfolio_Machine_Learning/tree/main/3)%20Implementing%20Linear%20Models%20in%20R">Click here </a>
 
 4) Machine Learning Algorithms implemented in C++
 

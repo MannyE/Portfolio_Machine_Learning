@@ -18,7 +18,7 @@ Additionally, I've inlcudeed a link to the individual write up here
 
 3) Implementing Linear Models in R: <a href = "https://github.com/MannyE/Portfolio_Machine_Learning/tree/main/3)%20Implementing%20Linear%20Models%20in%20R">Click here </a>
 
-4) Machine Learning Algorithms implemented in C++: <a href = "https://github.com/MannyE/Portfolio_Machine_Learning/tree/main/4)%20Machine%20Learning%20Algorithms%20Implemented%20in%20C%2B%2B">Click here </a>
+4) Machine Learning Algorithms implemented in C++: <a href = "https://github.com/MannyE/Portfolio_Machine_Learning/tree/main/4)%20Machine%20Learning%20Algorithms%20Implemented%20in%20C%2B%2B">Click here.</a>
 
 5) Similarity and Ensemble
 

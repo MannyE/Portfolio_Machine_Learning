@@ -20,7 +20,7 @@ Additionally, I've inlcudeed a link to the individual write up here
 
 4) Machine Learning Algorithms implemented in C++: <a href = "https://github.com/MannyE/Portfolio_Machine_Learning/tree/main/4)%20Linear%20Models%20Implemented%20in%20C%2B%2B">Click here.</a>
 
-5) Introduction to Machine Learning with Python3 and SKLearn
+5) Introduction to Machine Learning with Python3 and SKLearn:  <a href = "https://github.com/MannyE/Portfolio_Machine_Learning/blob/main/5)%20Introduction%20to%20Machine%20Leartning%20with%20Python%203%20and%20SKLearn/ML%20with%20sklearn.pdf">Click here.</a>
 
 6) Image Classification with Tensorflow
 

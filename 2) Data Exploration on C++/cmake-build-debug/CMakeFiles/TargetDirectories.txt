@@ -1,3 +1,0 @@
-C:/Users/Manny/Box/University/Sem 5 (Spring 2023)/CS 4375/Assignments/2) Boston Assignment/cmake-build-debug/CMakeFiles/2__Boston_Assignment.dir
-C:/Users/Manny/Box/University/Sem 5 (Spring 2023)/CS 4375/Assignments/2) Boston Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Manny/Box/University/Sem 5 (Spring 2023)/CS 4375/Assignments/2) Boston Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

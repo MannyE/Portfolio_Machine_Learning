@@ -22,5 +22,5 @@ Additionally, I've inlcudeed a link to the individual write up here
 
 5) Introduction to Machine Learning with Python3 and SKLearn:  <a href = "https://github.com/MannyE/Portfolio_Machine_Learning/blob/main/5)%20Introduction%20to%20Machine%20Leartning%20with%20Python%203%20and%20SKLearn/ML%20with%20sklearn.pdf">Click here.</a>
 
-6) Image Classification with Tensorflow
+6) Image Classification with Tensorflow: <a href = "https://github.com/MannyE/Portfolio_Machine_Learning/blob/main/6)%20Image%20Classification%20Models%20using%20Tensorflow%2C%20Keras%20API/Image%20Classification%20in%20Python.pdf">Click here.</a>
 
